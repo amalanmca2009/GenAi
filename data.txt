@@ -1,0 +1,13 @@
+Common Editing & Navigation Shortcuts
+Ctrl+C: Copy
+Ctrl+X: Cut (or cut entire line without selection)
+Ctrl+V: Paste
+Ctrl+Z: Undo
+Ctrl+Y: Redo
+Ctrl+F: Find
+Ctrl+H: Replace
+F12: Go to definition
+Shift+F12: Find all references
+Ctrl+K, Ctrl+C: Comment selection
+Ctrl+K, Ctrl+U: Uncomment selection
+Ctrl+.: Quick Actions and Refactorings
